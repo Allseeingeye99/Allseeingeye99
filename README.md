@@ -11,6 +11,6 @@
 ![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=974EEB)
 
 
-
-
-Follow Me
+### Follow Me
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=F4CA16)](https://xn--80affa3aj0al.xn--80asehdb/#/im)
+[![Vcontakte](https://img.shields.io/badge/-Vcontakte-000000?style=for-the-badge&logo=VK&logoColor=)](https://vk.com/id530217309)
